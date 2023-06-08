@@ -1,0 +1,2 @@
+list_1 = [ "GBPUSD", "GBPJPY", "USDCHF", "USDJPY", "USDCAD"]
+list_2 = ["EURUSD", "EURGBP", "EURAUD", "EURCHF", "EURJPY", "EURNZD",]
